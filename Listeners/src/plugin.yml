@@ -1,0 +1,5 @@
+name: Listeners
+version: 1.0
+author: tonDev
+main: me.ton.listeners.Main
+description: segundo plugin do trabserver!

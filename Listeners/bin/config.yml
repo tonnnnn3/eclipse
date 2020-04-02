@@ -1,0 +1,7 @@
+firstJoin_message: '&a<player> &7brotou no server pela primeira vez'
+
+join_message: '&e<player> &7brotou de novo no server'
+
+killer_message: 'Você matou <player>'
+
+killed_message: '<player> te matou'

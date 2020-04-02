@@ -1,0 +1,8 @@
+name: Salve
+version: 1.0
+author: tonDev
+main: me.ton.salve.Main
+description: primeiro plugin do trabserver!
+
+commands:
+  salve:

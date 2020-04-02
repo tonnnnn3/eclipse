@@ -1,0 +1,13 @@
+name: MinecraftClasses
+main: me.ton.minecraftclasses.MinecraftClasses
+version: 1.0
+api-version: 1.13
+description: >
+             Minecraft Classes adds a whole lot of commands for your roleplay needs.
+author: tonDEV
+
+commands:
+    MinecraftClasses:
+      description: Full info for MinecraftClasses.
+    Class:
+      description: Give the user the ability to select his/her class.

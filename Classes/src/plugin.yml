@@ -1,0 +1,9 @@
+name: Classes
+version: 1.1
+author: tonDev
+main: me.ton.classes.Main
+description: terceiro plugin do trabserver!
+api-version: 1.13
+
+commands:
+  classes:
